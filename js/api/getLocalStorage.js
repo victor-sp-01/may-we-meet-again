@@ -1,0 +1,1 @@
+export const getLocalStorage =( _key )=> localStorage.getItem( _key )
