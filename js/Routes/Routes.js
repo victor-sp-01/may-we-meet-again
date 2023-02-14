@@ -1,4 +1,4 @@
-import Auth from "../auth/auth.js"
+import Auth from "../auth/Auth.js"
 
 import Token from "../pages/Token.js"
 import Games from "../pages/Games.js" 
