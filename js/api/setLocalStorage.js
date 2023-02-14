@@ -1,1 +1,0 @@
-export const setLocalStorage =( _key, _value )=> localStorage.setItem( _key, _value ) 

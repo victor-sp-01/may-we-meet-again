@@ -1,1 +1,0 @@
-export const api =()=> 'https://may-we-meet-again.000webhostapp.com/api_mayWeMeetAgain'
